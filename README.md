@@ -2,7 +2,7 @@
 Confidence Assisted Model Adaptation via Iterative Learning
 
 ## CAMAIL Schematic
-![CAMAIL Schematic](./Figures/CAMAIL_schematic.png)
+![CAMAIL Schematic](./Figures/CAMAIL_Schematic.png)
 
 ## Visualization of Kather-19 dataset and synthetic test sets
 ![Kather-19 samples](./Figures/Kather_Images.PNG)
